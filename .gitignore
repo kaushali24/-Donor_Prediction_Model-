@@ -1,0 +1,18 @@
+
+# Colab-specific directories and files to ignore
+.config/
+drive/
+sample_data/
+# Jupyter notebook checkpoints
+.ipynb_checkpoints/
+# Google Drive specific files that can cause issues
+*.gsheet
+*.gdoc
+*.gslides
+*.gdraw
+*.gtable
+*.gform
+*.gmap
+*.gscript
+*.gjam
+*.gslides
